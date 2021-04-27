@@ -1,0 +1,25 @@
+<svg width="400" height="268" viewBox="0 0 400 268" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="border" clip-path="url(#clip0)">
+<rect width="400" height="268" fill="white"/>
+<path id="Vector 1" d="M2.5 54.5V2.5H112.5" stroke="#1D97BD"/>
+<circle id="Ellipse 1" cx="112.5" cy="2.5" r="1.5" fill="#1D97BD"/>
+<circle id="Ellipse 3" cx="285.5" cy="2.5" r="1.5" fill="#1D97BD"/>
+<circle id="Ellipse 5" cx="362.5" cy="8.5" r="1.5" fill="#1D97BD"/>
+<circle id="Ellipse 7" cx="397.5" cy="63.5" r="1.5" fill="#1D97BD"/>
+<circle id="Ellipse 8" cx="364.5" cy="265.5" r="1.5" fill="#1D97BD"/>
+<circle id="Ellipse 10" cx="255.5" cy="265.5" r="1.5" fill="#1D97BD"/>
+<circle id="Ellipse 11" cx="2.5" cy="208.5" r="1.5" fill="#1D97BD"/>
+<circle id="Ellipse 6" cx="58.5" cy="259.5" r="1.5" fill="#1D97BD"/>
+<circle id="Ellipse 4" cx="143.5" cy="259.5" r="1.5" fill="#1D97BD"/>
+<circle id="Ellipse 2" cx="2.5" cy="53.5" r="1.5" fill="#1D97BD"/>
+<path id="Vector 2" d="M285.5 2.5H391.5V259.5H354.5L348.5 265.5H272.5L266.5 259.5H143" stroke="#1D97BD"/>
+<path id="Vector 3" d="M362 8.5H273L267 2.5H128.5L122.5 8.5H8.5V63.5L2.5 69.5V192L8.5 198V259.5H59" stroke="#1D97BD"/>
+<path id="Vector 4" d="M397.5 63V265.5H364" stroke="#1D97BD"/>
+<path id="Vector 5" d="M2.5 208.5V265.5H256" stroke="#1D97BD"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="400" height="268" fill="white"/>
+</clipPath>
+</defs>
+</svg>
